@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d94807dc72ffcd4496e1db238d5abee, type: 3}
+  m_Name: CellsConfig
+  m_EditorClassIdentifier: 
+  cells:
+  - <Type>k__BackingField: 0
+    <Durability>k__BackingField: 5
+    <Icon>k__BackingField: {fileID: 21300000, guid: 9a9a5058ebf8eb54193749a6f065faea, type: 3}
+  - <Type>k__BackingField: 1
+    <Durability>k__BackingField: 10
+    <Icon>k__BackingField: {fileID: 21300000, guid: 0c0fe6badfd080b44a8f88ffed467793, type: 3}
+  - <Type>k__BackingField: 2
+    <Durability>k__BackingField: 16
+    <Icon>k__BackingField: {fileID: 21300000, guid: 97d320a36725aae4fbd1ca21a1cabe91, type: 3}
+  - <Type>k__BackingField: 3
+    <Durability>k__BackingField: 16
+    <Icon>k__BackingField: {fileID: 21300000, guid: a9ca8137c3f2364408f4d8f3c419ad5c, type: 3}
+  - <Type>k__BackingField: 4
+    <Durability>k__BackingField: 16
+    <Icon>k__BackingField: {fileID: 21300000, guid: 300d61616489c3042858850cf7500ee8, type: 3}
+  - <Type>k__BackingField: 5
+    <Durability>k__BackingField: 16
+    <Icon>k__BackingField: {fileID: 21300000, guid: 10980363a3d616444a33b78166b3ab44, type: 3}
+  - <Type>k__BackingField: 6
+    <Durability>k__BackingField: 20
+    <Icon>k__BackingField: {fileID: 21300000, guid: 39572003c0834984498e1e32750249ed, type: 3}
+  - <Type>k__BackingField: 7
+    <Durability>k__BackingField: 24
+    <Icon>k__BackingField: {fileID: 21300000, guid: dd05709801e45774d8524841a9537d12, type: 3}
+  - <Type>k__BackingField: 8
+    <Durability>k__BackingField: 30
+    <Icon>k__BackingField: {fileID: 21300000, guid: ac5df51fb34ab894489571b9aa7b4d8f, type: 3}
+  - <Type>k__BackingField: 9
+    <Durability>k__BackingField: 40
+    <Icon>k__BackingField: {fileID: 21300000, guid: 67cd1bc42fbe784459c5a992071d7774, type: 3}
+  - <Type>k__BackingField: 10
+    <Durability>k__BackingField: 80
+    <Icon>k__BackingField: {fileID: 21300000, guid: 7a322a3bf987c7b4db06140bce1535ff, type: 3}
+  - <Type>k__BackingField: 11
+    <Durability>k__BackingField: 80
+    <Icon>k__BackingField: {fileID: 21300000, guid: 5e6a45f40f2fa5c409eadbbb3b1c35ba, type: 3}
+  - <Type>k__BackingField: 12
+    <Durability>k__BackingField: 160
+    <Icon>k__BackingField: {fileID: 21300000, guid: ca798f80e98b159419b5a06a44f0cca5, type: 3}

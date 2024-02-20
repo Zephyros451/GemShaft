@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cc169fb093a45b5a04c24400dfb2bb2, type: 3}
+  m_Name: SpawnBlocksConfig
+  m_EditorClassIdentifier: 
+  data:
+  - <StartScore>k__BackingField: 0
+    <Weights>k__BackingField: 1,0,0,0,0,0,0,0,0,0,0,0,0
+  - <StartScore>k__BackingField: 2
+    <Weights>k__BackingField: 1,3,0,0,0,0,0,0,0,0,0,0,0
+  - <StartScore>k__BackingField: 60
+    <Weights>k__BackingField: 1,10,3,4,4,4,0,0,0,0,0,0,0
+  - <StartScore>k__BackingField: 100
+    <Weights>k__BackingField: 1,20,4,5,5,5,8,3,0,0,0,0,0
+  - <StartScore>k__BackingField: 200
+    <Weights>k__BackingField: 0,20,4,6,6,6,10,3,0,0,0,0,0
+  - <StartScore>k__BackingField: 300
+    <Weights>k__BackingField: 0,40,8,16,16,16,10,6,1,3,0,0,0
+  - <StartScore>k__BackingField: 400
+    <Weights>k__BackingField: 0,30,6,6,6,6,12,16,1,8,2,0,0
+  - <StartScore>k__BackingField: 600
+    <Weights>k__BackingField: 0,10,10,10,10,10,10,10,1,8,6,30,0
+  - <StartScore>k__BackingField: 1000
+    <Weights>k__BackingField: 0,0,0,0,0,0,0,0,1,8,4,16,2

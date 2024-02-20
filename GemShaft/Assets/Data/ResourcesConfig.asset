@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21b066d25d1a47faa10586a7896f8529, type: 3}
+  m_Name: ResourcesConfig
+  m_EditorClassIdentifier: 
+  resources:
+  - <Type>k__BackingField: 0
+    <Icon>k__BackingField: {fileID: 21300000, guid: 3aaa09d2c11e53c4a821c317266f66b9, type: 3}
+    <Name>k__BackingField: "\u0417\u0435\u043C\u043B\u044F"
+  - <Type>k__BackingField: 1
+    <Icon>k__BackingField: {fileID: 21300000, guid: 045bd9dcdf39464409b83c7de97c7838, type: 3}
+    <Name>k__BackingField: "\u0411\u0443\u043B\u044B\u0436\u043D\u0438\u043A"
+  - <Type>k__BackingField: 2
+    <Icon>k__BackingField: {fileID: 21300000, guid: c73949b7aa1316e4b99a14755c3b8dd4, type: 3}
+    <Name>k__BackingField: "\u041C\u0435\u0434\u044C"
+  - <Type>k__BackingField: 3
+    <Icon>k__BackingField: {fileID: 21300000, guid: c37eda0de85f4484698fff44777e8bf7, type: 3}
+    <Name>k__BackingField: "\u041A\u0440\u0435\u043C\u0435\u043D\u044C"
+  - <Type>k__BackingField: 4
+    <Icon>k__BackingField: {fileID: 21300000, guid: 63835242f8681b047a9cf0b8b8f84ac7, type: 3}
+    <Name>k__BackingField: "\u0416\u0435\u043B\u0435\u0437\u043E"
+  - <Type>k__BackingField: 5
+    <Icon>k__BackingField: {fileID: 21300000, guid: f8f36bb7705266c49aa2086b428ecd93, type: 3}
+    <Name>k__BackingField: "\u041B\u0430\u0437\u0443\u0440\u0438\u0442"
+  - <Type>k__BackingField: 6
+    <Icon>k__BackingField: {fileID: 21300000, guid: f1b0796785f69f24089215a61f967e3d, type: 3}
+    <Name>k__BackingField: "\u0410\u043C\u0435\u0442\u0438\u0441\u0442"
+  - <Type>k__BackingField: 7
+    <Icon>k__BackingField: {fileID: 21300000, guid: c0f5cd8254a25c9439531fb6814bc21b, type: 3}
+    <Name>k__BackingField: "\u0417\u043E\u043B\u043E\u0442\u043E"
+  - <Type>k__BackingField: 8
+    <Icon>k__BackingField: {fileID: 21300000, guid: 5499bbdd804b80148b429c00d03a8f01, type: 3}
+    <Name>k__BackingField: "\u0410\u043B\u043C\u0430\u0437"
+  - <Type>k__BackingField: 9
+    <Icon>k__BackingField: {fileID: 21300000, guid: 7cb71da0bcc720f4ab7f221f0abd882d, type: 3}
+    <Name>k__BackingField: "\u0421\u043B\u0430\u043D\u0435\u0446"
+  - <Type>k__BackingField: 10
+    <Icon>k__BackingField: {fileID: 21300000, guid: 7af6fca7e65d312458a22246223ad3e5, type: 3}
+    <Name>k__BackingField: "\u041D\u0435\u0437\u0435\u0440\u0438\u0442"

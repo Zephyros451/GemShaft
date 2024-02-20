@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f7621f62eaf421e98b643c8a31e0d62, type: 3}
+  m_Name: PickaxesConfig
+  m_EditorClassIdentifier: 
+  pickaxes:
+  - <Tier>k__BackingField: 1
+    <Efficiency>k__BackingField: 1
+    <Durability>k__BackingField: 400
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 6961ff9c6db2beb409d46a159c28bc6a, type: 3}
+    <BrokenSprite>k__BackingField: {fileID: 21300000, guid: 99b180374fb60c34f960484da833649d, type: 3}
+  - <Tier>k__BackingField: 2
+    <Efficiency>k__BackingField: 2
+    <Durability>k__BackingField: 400
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 5ba0fddcd1c93ba47a92843f95dc0e35, type: 3}
+    <BrokenSprite>k__BackingField: {fileID: 21300000, guid: 22f9072133b94b24d9164211854b2ac1, type: 3}
+  - <Tier>k__BackingField: 3
+    <Efficiency>k__BackingField: 4
+    <Durability>k__BackingField: 600
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 50fbc78d08cd6c04aba346626af5b71a, type: 3}
+    <BrokenSprite>k__BackingField: {fileID: 21300000, guid: 2331e3e245780ab42bcf698ac655d691, type: 3}
+  - <Tier>k__BackingField: 4
+    <Efficiency>k__BackingField: 8
+    <Durability>k__BackingField: 800
+    <Sprite>k__BackingField: {fileID: 21300000, guid: d78396f8d4b19c842ac9346005bd46ef, type: 3}
+    <BrokenSprite>k__BackingField: {fileID: 21300000, guid: b8241a37c68742e4ea90bf04ee6e4dae, type: 3}
+  - <Tier>k__BackingField: 5
+    <Efficiency>k__BackingField: 16
+    <Durability>k__BackingField: 1200
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 8e7f928f64c0b3649b37a077d006144e, type: 3}
+    <BrokenSprite>k__BackingField: {fileID: 21300000, guid: 2263bcdb7fc708340ba0cc4c9148444d, type: 3}
+  - <Tier>k__BackingField: 6
+    <Efficiency>k__BackingField: 32
+    <Durability>k__BackingField: 2000
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 87a1e7d36f43eaa4098644f1db9efa81, type: 3}
+    <BrokenSprite>k__BackingField: {fileID: 21300000, guid: 554e04dcf3c4976418542d9c1a95cb4a, type: 3}
